@@ -1,2 +1,2 @@
-# 2DGamePortfolio
-1인 유니티 2D 포트폴리오
+# 2D-Platformer
+2인 프로그래머 팀 첫번째 프로젝트
