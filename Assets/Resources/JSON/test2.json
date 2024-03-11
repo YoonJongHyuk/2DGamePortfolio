@@ -1,0 +1,16 @@
+{
+    "dialogues": [
+      {
+        "speaker": "NPC",
+        "text": "Very well, you seem confident. Remember, you can always ask for help if you need it.",
+        "options": [
+          {
+            "text": "Thank the NPC and continue.",
+            "condition": "1",
+            "nextDialoguePath": "JSON/continueAdventure"
+          }
+        ]
+      }
+    ]
+  }
+  

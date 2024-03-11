@@ -1,0 +1,21 @@
+{
+    "dialogues": [
+      {
+        "speaker": "Guide",
+        "text": "This is the beginning of your adventure. Follow the path to find your first quest.",
+        "options": [
+          {
+            "text": "Ask about the quest.",
+            "condition": "1",
+            "nextDialoguePath": "JSON/questDetails"
+          },
+          {
+            "text": "Continue without asking.",
+            "condition": "1",
+            "nextDialoguePath": "JSON/continueAdventure"
+          }
+        ]
+      }
+    ]
+  }
+  

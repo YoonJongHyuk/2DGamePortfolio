@@ -1,0 +1,13 @@
+{
+    "dialogues": [
+      {
+        "speaker": "NPC",
+        "text": "Hello, adventurer!"
+      },
+      {
+        "speaker": "Player",
+        "text": "Hi, what's up?"
+      }
+    ]
+  }
+  
